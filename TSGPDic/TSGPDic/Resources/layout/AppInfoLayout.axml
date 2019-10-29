@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+	android:background="@color/MainColor"
+    android:id="@+id/AppInfoMainLayout">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+		<LinearLayout
+			android:orientation="horizontal"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+			<Space
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="1"/>
+			<ImageView
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="3"
+				android:src="@drawable/title_icon"/>
+			<Space
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="1"/>
+		</LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/app_name"
+            android:textStyle="bold"
+            android:gravity="center" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:gravity="center"
+            android:id="@+id/AppInfoNowAppVersion" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:gravity="center"
+            android:id="@+id/AppInfoServerAppVersion" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Common_Update"
+            android:visibility="invisible"
+            android:layout_gravity="center"
+			android:id="@+id/AppInfoAppUpdateButton"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/AppInfo_DeveloperInfo"
+            android:textStyle="bold"
+            android:gravity="center" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:gravity="center"
+                android:id="@+id/AppInfoDeveloperInfo" />
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+		android:layout_alignBottom="@id/AppInfoMainLayout">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:layout_gravity="center">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/xamarin_logo" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:text="Powered by Xamarin.Android" />
+        </LinearLayout>
+    </LinearLayout>
+	<android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/discordicon"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:backgroundTint="@color/MainColor"
+        app:fabSize="auto"
+        app:rippleColor="#FF80AB"
+        android:id="@+id/DiscordFAB" />
+</RelativeLayout>

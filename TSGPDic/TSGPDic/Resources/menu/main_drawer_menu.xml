@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+  <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/Main_Main"
+        android:title="@string/Common_Main" />
+    <item
+        android:id="@+id/Main_Dic"
+        android:title="@string/Common_Dic" />
+  </group>
+
+  <item android:title="App">
+    <menu>
+      <item
+        android:id="@+id/Main_AppInfo"
+        android:title="@string/Common_Info" />
+      <item
+          android:id="@+id/Main_Setting"
+          android:title="@string/Common_Setting" />
+    </menu>
+  </item>
+
+</menu>

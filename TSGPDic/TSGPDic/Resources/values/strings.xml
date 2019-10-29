@@ -1,0 +1,74 @@
+<resources>
+  <string name="app_name">TSGPDic</string>
+  <string name="CheckDBUpdateDialog_Title">DB 업데이트</string>
+  <string name="CheckDBUpdateDialog_Message">DB 업데이트 중...</string>
+  <string name="UpdateDBDialog_RefreshVersionMessage">DB 버전 갱신 중...</string>
+
+  <string name="Permission_Error">권한 부여 실패</string>
+  <string name="PermissionDeny_Message">아카식 레코드 관리자 권한 인증 실패</string>
+
+  <string name="Common_Main">메인</string>
+  <string name="Common_Dic">도감</string>
+  <string name="Common_Calc">계산기</string>
+  <string name="Common_Info">정보</string>
+  <string name="Common_Setting">설정</string>
+  <string name="Common_Notification">공지사항</string>
+  <string name="Common_Music">곡</string>
+  <string name="Common_Filter">필터</string>
+  <string name="Common_Now">현재</string>
+  <string name="Common_Total">전체</string>
+  <string name="Common_Update">업데이트</string>
+  <string name="Common_CommingSoon">Comming Soon...</string>
+
+  <string name="LineUp_Name">이름순</string>
+  <string name="LineUp_Update">업데이트순</string>
+  <string name="LineUp_DicNumber">도감번호순</string>
+
+  <string name="MusicType_Vocal">Vocal</string>
+  <string name="MusicType_Dance">Dance</string>
+  <string name="MusicType_Session">Session</string>
+  
+  <string name="StarAttribute_Vocal">Vocal</string>
+  <string name="StarAttribute_Dance">Dance</string>
+  <string name="StarAttribute_Session">Session</string>
+  <string name="StarAttribute_Support">Support</string>
+  
+  <string name="StarType_Tap">Tap</string>
+  <string name="StarType_Long">Long</string>
+  <string name="StarType_Slide">Slide</string>
+  <string name="StarType_Flick">Flick</string>
+  <string name="StarType_Support">Support</string>
+  <string name="StarType_Special">Special</string>
+
+  <string name="MusicLevel_Easy">Easy</string>
+  <string name="MusicLevel_Normal">Normal</string>
+  <string name="MusicLevel_Hard">Hard</string>
+  <string name="MusicLevel_Expert">Expert</string>
+
+  <string name="Music_MissionButton">곡 미션 일람</string>
+  <string name="Music_MissionTitle">곡 미션 리스트</string>
+  <string name="Music_PreviewButton">미리 듣기</string>
+  
+  <string name="Main_Dic_CardView_MusicDB">곡 DB</string>
+  <string name="Main_Dic_CardView_CharacterDB">스타 DB</string>
+
+  <string name="MusicDic_CropImageDownloadTitle">앨범 이미지 다운로드</string>
+  <string name="MusicDic_CropImageDownloadQuestion">앨범 이미지를 다운로드 할까요?</string>
+  <string name="MusicDic_CropImageDownloadMessage">앨범 이미지를 다운로드 중입니다.</string>
+  
+  <string name="StarDic_CropImageDownloadTitle">스타 이미지 다운로드</string>
+  <string name="StarDic_CropImageDownloadQuestion">스타 이미지를 다운로드 할까요?</string>
+  <string name="StarDic_CropImageDownloadMessage">스타 이미지를 다운로드 중입니다.</string>
+  
+  <string name="AlertDialog_Download">다운로드</string>
+  <string name="AlertDialog_Cancel">취소</string>
+
+  <string name="Download_Fail">다운로드 실패</string>
+  <string name="Server_Down_Error">서버가 현재 연결되지 않았습니다.</string>
+  <string name="Update_CheckFail">업데이트 체크 실패</string>
+
+  <string name="AppInfo_NowAppVersion">현재 버전</string>
+  <string name="AppInfo_NewVersion">최신 버전</string>
+  <string name="AppInfo_DeveloperInfo">개발자 정보</string>
+  <string name="AppInf_LatestUpdateVersion">최신 버전입니다.</string>
+</resources>

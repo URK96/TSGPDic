@@ -1,0 +1,1497 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TSGP_Song" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TSGP_Song">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="CodeName" type="xs:string" minOccurs="0" />
+                <xs:element name="Artist" type="xs:string" minOccurs="0" />
+                <xs:element name="BPM" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Level" type="xs:string" minOccurs="0" />
+                <xs:element name="AddVersion" type="xs:string" minOccurs="0" />
+                <xs:element name="UpdateDate" type="xs:string" minOccurs="0" />
+                <xs:element name="EarnRoute" type="xs:string" minOccurs="0" />
+                <xs:element name="Mission" type="xs:string" minOccurs="0" />
+                <xs:element name="MissionCompleteReward" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TSGP_Song>
+    <Name>A Song of Sixpence</Name>
+    <CodeName>sixpence</CodeName>
+    <Artist>Makou</Artist>
+    <BPM>135</BPM>
+    <Type>Vocal</Type>
+    <Level>1,2,4,5</Level>
+    <AddVersion>DMTT</AddVersion>
+    <UpdateDate>2018-06-14</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;B,노멀 캐스팅 2개;2,노멀 속성 스태프 3개;60,레전드 스카우트 포인트 5개;3,10 SONIC;4,30000 골드;2,20000 골드;350,000,노멀 캐스팅 2개;5,10 SONIC;7,10 SONIC;4,소형 태피(VOCAL);2,소형 태피(DANCER);4,소형 태피(VOCAL);SLIDE 1,000,15 SONIC;판정 강화 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>17</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Always</Name>
+    <CodeName>always</CodeName>
+    <Artist>신지</Artist>
+    <BPM>135</BPM>
+    <Type>Dance</Type>
+    <Level>1,2,6,7</Level>
+    <AddVersion>요구르팅</AddVersion>
+    <UpdateDate>2018-05-09</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S,10000 골드;1,50000 골드;70,소형 태피(VOCAL);1,20 SONIC;7,10 SONIC;2,레전드 스카우트 포인트 3개;800,000,1성 클래스볼;5,노멀 캐스팅 3개;7,슈퍼 캐스팅 1개;4,소형 태피(VOCAL);3,슈퍼 캐스팅 2개;4,소형 태피(DANCER);FLICK 150,슈퍼 캐스팅 1개;판정 강화 2,10000 골드</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Angel</Name>
+    <CodeName>angel</CodeName>
+    <Artist>Laurent Newfield &amp; Ravenant</Artist>
+    <BPM>170</BPM>
+    <Type>Dance</Type>
+    <Level>1,2,5,6</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,10000 골드;2,슈퍼 속성 스태프 2개;90,20 SONIC;2,노멀 레벨 스태프 5개;5,20000 골드;2,20000 골드;1,000,000,15000 골드;7,노멀 캐스팅 2개;10,10000 골드;2,대형 태피(VOCAL);3,소형 태피(DANCER);3,소형 태피(SESSION);LONG 3,000,25000 골드;HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Binary World</Name>
+    <CodeName>binaryworld</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>182</BPM>
+    <Type>Dance</Type>
+    <Level>6,7,8,9</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S,노멀 캐스팅 3개;2,슈퍼 레벨 스태프 7개;70,슈퍼 캐스팅 1개;2,10000 골드;5,슈퍼 스카우트 포인트 5개;2,슈퍼 캐스팅 1개;650,000,30000 골드;10,1성 클래스볼;7,노멀 캐스팅 1개;2,소형 태피(SESSION);3,소형 태피(VOCAL);4,소형 태피(VOCAL);TAP 7,000,20 SONIC;MAX HP 증가 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Bingo</Name>
+    <CodeName>bingo</CodeName>
+    <Artist>Semi Dragon</Artist>
+    <BPM>124</BPM>
+    <Type>Session</Type>
+    <Level>1,3,4,7</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;B,10000 골드;2,노멀 속성 스태프 5개;80,노멀 속성 스태프 3개;3,노멀 레벨 스태프 5개;4,20 SONIC;2,20000 골드;650,000,15000 골드;5,노멀 캐스팅 3개;5,10 SONIC;3,소형 태피(DANCER);3,소형 태피(SESSION);3,레전드 스카우트 포인트 5개;SLIDE 1,500,15000 골드;MAX HP 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Black Swan</Name>
+    <CodeName>blackswan</CodeName>
+    <Artist>TAK</Artist>
+    <BPM>174 (변속)</BPM>
+    <Type>Session</Type>
+    <Level>4,5,6,9</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;S+,40000 골드;1,50000 골드;80,노멀 레벨 스태프 7개;2,10 SONIC;4,10000 골드;2,10000 골드;350,000,20000 골드;5,노멀 캐스팅 3개;1,15 SONIC;4,대형 태피(SESSION);4,EXP 부스터(3시간);2,소형 태피(SESSION);SLIDE 5,500,중형 태피(VOCAL);리더 게이지 충전 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Burn It Down</Name>
+    <CodeName>burnitdown</CodeName>
+    <Artist>P'sycho-Remi</Artist>
+    <BPM>150</BPM>
+    <Type>Vocal</Type>
+    <Level>5,6,7,8</Level>
+    <AddVersion>DMT2</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>20 SONIC;A,슈퍼 스카우트 포인트 5개;1,30 SONIC;80,슈퍼 속성 스태프 3개;3,10 SONIC;4,노멀 캐스팅 2개;1,슈퍼 캐스팅 1개;800,000,15000 골드;7,슈퍼 스카우트 포인트 5개;5,슈퍼 캐스팅 1개;3,중형 태피(DANCER);4,소형 태피(DANCER);4,레전드 스카우트 포인트 5개;SLIDE 1,500,소형 태피(SESSION);MAX HP 증가 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>CANON 2017 (Top Mix)</Name>
+    <CodeName>canon2017</CodeName>
+    <Artist>Funtwo</Artist>
+    <BPM>90</BPM>
+    <Type>Session</Type>
+    <Level>4,5,7,9</Level>
+    <AddVersion>TWC</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;A,슈퍼 캐스팅 1개;1,레전드 스카우트 포인트 7개;70,소형 태피(SESSION);2,10000 골드;5,20000 골드;2,20000 골드;200,000,20000 골드;7,소형 태피(DANCER);7,10 SONIC;4,슈퍼 스카우트 포인트 10개;4,중형 태피(DANCER);3,소형 태피(VOCAL);LONG 1,000,노멀 캐스팅 2개;MAX HP 증가 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Child of Night</Name>
+    <CodeName>childofnight</CodeName>
+    <Artist>GOTH</Artist>
+    <BPM>130</BPM>
+    <Type>Dance</Type>
+    <Level>3,6,8,10</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,슈퍼 캐스팅 1개;3,노멀 레벨 스태프 5개;80,25000 골드;1,20 SONIC;5,30000 골드;2,20000 골드;650,000,15 SONIC;5,10000 골드;10,노멀 캐스팅 1개;3,소형 태피(DANCER);4,소형 태피(DANCER);4,소형 태피(DANCER);FLICK 150,노멀 캐스팅 2개;판정 강화 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Colours of Sorrow</Name>
+    <CodeName>cos</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>143</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,7,8</Level>
+    <AddVersion>DMT1</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;B,노멀 캐스팅 2개;3,노멀 레벨 스태프 7개;70,노멀 캐스팅 3개;2,10000 골드;6,노멀 캐스팅 1개;1,20000 골드;350,000,20000 골드;10,15 SONIC;3,노멀 캐스팅 1개;4,소형 태피(VOCAL);4,소형 태피(DANCER);4,소형 태피(VOCAL);TAP 10,000,슈퍼 스카우트 포인트 10개;MAX HP 증가 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>conflict</Name>
+    <CodeName>conflict</CodeName>
+    <Artist>siromaru + cranky</Artist>
+    <BPM>160</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,7,10</Level>
+    <AddVersion>BMS</AddVersion>
+    <UpdateDate>2018-09-12</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S+,슈퍼 스카우트 포인트 10개;2,슈퍼 속성 스태프 2개;80,30000 골드;2,10000 골드;7,슈퍼 레벨 스태프 3개;2,노멀 캐스팅 2개;1,000,000,2성 클래스볼;5,노멀 캐스팅 1개;5,슈퍼 속성 스태프 2개;4,소형 태피(DANCER);4,소형 태피(VOCAL);2,중형 태피(SESSION);LONG 7,000,레전드 스카우트 포인트 5개;MAX HP 증가 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Cosmic Elevator</Name>
+    <CodeName>cosmicelevator</CodeName>
+    <Artist>Forte Escape</Artist>
+    <BPM>164</BPM>
+    <Type>Dance</Type>
+    <Level>3,4,5,9</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-11-14</UpdateDate>
+    <EarnRoute>스토리 해금</EarnRoute>
+    <Mission>10000 골드;A,30000 골드;3,25000 골드;80,25000 골드;1,20 SONIC;6,10000 골드;2,노멀 캐스팅 2개;1,000,000,2성 클래스볼;9,15000 골드;5,노멀 캐스팅 1개;3,중형 태피(VOCAL);4,소형 태피(SESSION);4,소형 태피(SESSION);TAP 15,000,슈퍼 스카우트 포인트 10개;리더 게이지 충전 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Cosmic Fantastic Lovesong</Name>
+    <CodeName>cosmicfantastic</CodeName>
+    <Artist>DINY</Artist>
+    <BPM>136</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,5,7</Level>
+    <AddVersion>DMT2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S+,소형 태피(SESSION);3,25000 골드;60,소형 태피(SESSION);3,10 SONIC;4,슈퍼 스카우트 포인트 5개;1,노멀 캐스팅 2개;200,000,10000 골드;10,30000 골드;7,노멀 캐스팅 1개;4,소형 태피(DANCER);4,소형 태피(VOCAL);4,중형 태피(SESSION);SLIDE 1,000,레전드 스카우트 포인트 5개;MAX HP 증가 1,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>D2</Name>
+    <CodeName>d2</CodeName>
+    <Artist>FIRST AID</Artist>
+    <BPM>178</BPM>
+    <Type>Session</Type>
+    <Level>4,6,8,10</Level>
+    <AddVersion>DMT2</AddVersion>
+    <UpdateDate>2018-10-31</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;S+,노멀 캐스팅 3개;1,30000 골드;70,소형 태피(SESSION);1,슈퍼 속성 스태프 3개;5,20000 골드;2,노멀 속성 스태프 3개;650,000,노멀 캐스팅 2개;5,10000 골드;5,노멀 캐스팅 1개;3,대형 태피(VOCAL);4,소형 태피(VOCAL);4,중형 태피(SESSION);FLICK 2,000,20 SONIC;리더 게이지 충전 1,노멀 스킬 스태프 5개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Dear My Lady</Name>
+    <CodeName>dearmylady</CodeName>
+    <Artist>Oriental ST8</Artist>
+    <BPM>128</BPM>
+    <Type>Session</Type>
+    <Level>3,4,6,8</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;B,10000 골드;1,대형 태피(VOCAL);80,노멀 속성 스태프 5개;2,15 SONIC;4,20000 골드;1,노멀 캐스팅 2개;800,000,15 SONIC;15,슈퍼 캐스팅 1개;1,노멀 캐스팅 3개;3,레전드 스카우트 포인트 5개;2,소형 태피(DANCER);4,소형 태피(DANCER);SLIDE 1,500,노멀 캐스팅 2개;MAX HP 증가 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Delta Spike</Name>
+    <CodeName>deltaspike</CodeName>
+    <Artist>siromaru</Artist>
+    <BPM>165</BPM>
+    <Type>Dance</Type>
+    <Level>2,4,9,10</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-10-31</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;S+,슈퍼 스카우트 포인트 10개;3,노멀 속성 스태프 3개;70,소형 태피(DANCER);3,노멀 레벨 스태프 5개;10,노멀 캐스팅 2개;2,20000 골드;200,000,중형 태피(VOCAL);10미스 이항,2성 클래스볼;7,노멀 캐스팅 1개;4,대형 태피(SESSION);3,소형 태피(VOCAL);4,슈퍼 스카우트 포인트 10개;SLIDE 12,000,슈퍼 캐스팅 1개;리더 게이지 충전 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Devil's Whispering</Name>
+    <CodeName>devilswhispering</CodeName>
+    <Artist>Kaneko Chiharu</Artist>
+    <BPM>160 (변속)</BPM>
+    <Type>Session</Type>
+    <Level>4,7,9,10</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;S,노멀 캐스팅 1개;1,중형 태피(DANCER);70,노멀 캐스팅 3개;3,레전드 SESSION 스태프 2개;4,20000 골드;1,10000 골드;1,000,000,슈퍼 스카우트 포인트 5개;7,15000 골드;3,노멀 캐스팅 3개;3,소형 태피(SESSION);2,중형 태피(DANCER);4,중형 태피(SESSION);SLIDE 12,000,슈퍼 캐스팅 1개;MAX HP 증가 1,슈퍼 레벨 스태프 3개</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Don't Die</Name>
+    <CodeName>dontdie</CodeName>
+    <Artist>Paul Bazooka</Artist>
+    <BPM>175</BPM>
+    <Type>Session</Type>
+    <Level>4,6,8,9</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>30000 골드;A,20000 골드;3,25000 골드;60,소형 태피(SESSION);3,10 SONIC;4,20000 골드;2,30000 골드;1,000,000,노멀 캐스팅 2개;5,10 SONIC;5,10000 골드;4,소형 태피(SESSION);3,소형 태피(SESSION);4,소형 태피(SESSION);LONG 1,000,노멀 캐스팅 2개;리더 게이지 충전 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Dual Strikers</Name>
+    <CodeName>dualstrikers</CodeName>
+    <Artist>7 Sequence</Artist>
+    <BPM>152</BPM>
+    <Type>Session</Type>
+    <Level>3,5,6,9</Level>
+    <AddVersion>DMT2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;A,20000 골드;2,25000 골드;80,노멀 속성 스태프 3개;1,20 SONIC;4,10000 골드;1,30000 골드;350,000,슈퍼 캐스팅 1개;9,노멀 캐스팅 3개;1,노멀 캐스팅 2개;3,소형 태피(SESSION);3,소형 태피(SESSION);2,소형 태피(VOCAL);SLIDE 3,000,소형 태피(DANCER);리더 게이지 충전 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>EGG</Name>
+    <CodeName>egg</CodeName>
+    <Artist>Nauts</Artist>
+    <BPM>176</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,6,7</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (Free)</EarnRoute>
+    <Mission>10000 골드;A,슈퍼 캐스팅 1개;2,노멀 속성 스태프 3개;60,노멀 캐스팅 3개;3,10000 골드;5,10000 골드;2,슈퍼 스카우트 포인트 5개;650,000,3성 클래스볼;5,노멀 캐스팅 3개;7,10 SONIC;4,소형 태피(SESSION);4,슈퍼 캐스팅 2개;4,소형 태피(SESSION);TAP 2,000,슈퍼 캐스팅 1개;HP 회복 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Elastic STAR</Name>
+    <CodeName>elasticstar</CodeName>
+    <Artist>Forte Escape</Artist>
+    <BPM>132</BPM>
+    <Type>Dance</Type>
+    <Level>5,6,7,8</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-06-14</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,20 SONIC;3,노멀 레벨 스태프 7개;80,슈퍼 레벨 스태프 5개;2,10000 골드;4,30000 골드;2,20000 골드;650,000,15000 골드;10,1성 클래스볼;5,10000 골드;2,소형 태피(DANCER);4,슈퍼 캐스팅 2개;4,소형 태피(DANCER);TAP 7,000,소형 태피(DANCER);HP 회복 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Fallen Angel</Name>
+    <CodeName>fallenangel</CodeName>
+    <Artist>DJ Mocha</Artist>
+    <BPM>142</BPM>
+    <Type>Vocal</Type>
+    <Level>2,3,6,7</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S+,중형 태피(VOCAL);2,30000 골드;70,소형 태피(VOCAL);2,10000 골드;4,노멀 캐스팅 2개;2,노멀 캐스팅 2개;800,000,15000 골드;5,10000 골드;3,10000 골드;3,소형 태피(DANCER);3,중형 태피(VOCAL);4,중형 태피(SESSION);LONG 1,000,15000 골드;HP 회복 1,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Fentanest</Name>
+    <CodeName>fentanest</CodeName>
+    <Artist>EarBreaker / eszett</Artist>
+    <BPM>20~160</BPM>
+    <Type>Session</Type>
+    <Level>4,6,7,10</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-08-29</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 2개;1,슈퍼 캐스팅 1개;70,15000 골드;3,노멀 레벨 스태프 5개;5,20000 골드;2,10000 골드;350,000,30000 골드;7,소형 태피(VOCAL);5,노멀 캐스팅 1개;3,소형 태피(SESSION);3,레전드 스카우트 포인트 5개;4,소형 태피(SESSION);TAP 10,000,노멀 캐스팅 2개;MAX HP 증가 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Festa Nova</Name>
+    <CodeName>festanova</CodeName>
+    <Artist>TerraMycin</Artist>
+    <BPM>131~188</BPM>
+    <Type>Session</Type>
+    <Level>6,7,8,9</Level>
+    <AddVersion>DMTQ</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;A,10000 골드;2,노멀 속성 스태프 3개;80,25000 골드;2,10 SONIC;7,10 SONIC;2,30000 골드;100,000,20 SONIC;10,15000 골드;7,노멀 캐스팅 1개;4,레전드 스카우트 포인트 5개;3,소형 태피(DANCER);3,소형 태피(DANCER);FLICK 150,15 SONIC;MAX HP 증가 2,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>First Kiss</Name>
+    <CodeName>firstkiss</CodeName>
+    <Artist>BJJ</Artist>
+    <BPM>107</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,7,8</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>2018-05-09</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,10000 골드;1,중형 태피(VOCAL);70,15000 골드;1,노멀 스킬 스태프 2개;5,노멀 캐스팅 2개;2,슈퍼 캐스팅 1개;800,000,15000 골드;5,노멀 캐스팅 3개;1,소형 태피(DANCER);2,소형 태피(VOCAL);4,슈퍼 스카우트 포인트 10개;4,중형 태피(SESSION);FLICK 200,15 SONIC;HP 회복 1,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Fly Away</Name>
+    <CodeName>flyaway</CodeName>
+    <Artist>XeoN</Artist>
+    <BPM>140</BPM>
+    <Type>Session</Type>
+    <Level>3,5,6,7</Level>
+    <AddVersion>DMTQ</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 2개;3,30000 골드;80,노멀 레벨 스태프 5개;3,10000 골드;8,레전드 Session 스태프 2장;1,30000 골드;200000,50000 골드;9,노멀 캐스팅 2장;5,소형 태피(SESSION);4,소형 태피(VOCAL);4,소형 태피(DANCER);3,소형 태피(SESSION);TAP 20000,슈퍼 스카우트 포인트 5개;판정 강화 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>FTR</Name>
+    <CodeName>ftr</CodeName>
+    <Artist>Supbaby</Artist>
+    <BPM>140</BPM>
+    <Type>Dance</Type>
+    <Level>2,5,8,10</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-11-14</UpdateDate>
+    <EarnRoute>스토리 해금</EarnRoute>
+    <Mission>중형 태피(SESSION);S,노멀 캐스팅 3개;1,50000 골드;80,노멀 레벨 스태프 5개;2,노멀 캐스팅 10개;7,슈퍼 속성 스태프 3개;2,10000 골드;650,000,15000 골드;5,10000 골드;7,노멀 캐스팅 1개;4,레전드 스카우트 포인트 5개;2,중형 태피(DANCER);3,소형 태피(DANCER);SLIDE 12,000,20 SONIC;MAX HP 증가 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Get On Top</Name>
+    <CodeName>getontop</CodeName>
+    <Artist>Planetboom</Artist>
+    <BPM>125</BPM>
+    <Type>Session</Type>
+    <Level>4,5,7,9</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S,노멀 캐스팅 1개;3,슈퍼 레벨 스태프 5개;70,15000 골드;2,노멀 레벨 스태프 5개;4,10000 골드;1,10000 골드;650,000,15000 골드;7,소형 태피(SESSION);3,10 SONIC;4,소형 태피(VOCAL);2,슈퍼 스카우트 포인트 10개;4,소형 태피(DANCER);FLICK 150,소형 태피(DANCER);리더 게이지 충전 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>GET OUT</Name>
+    <CodeName>getout</CodeName>
+    <Artist>NDLee</Artist>
+    <BPM>112</BPM>
+    <Type>Dance</Type>
+    <Level>2,3,5,6</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20 SONIC;S,10 SONIC;3,25000 골드;80,노멀 레벨 스태프 5개;2,노멀 레벨 스태프 5개;4,10000 골드;2,20000 골드;200,000,20000 골드;10,15 SONIC;5,노멀 캐스팅 3개;4,대형 태피(SESSION);3,슈퍼 캐스팅 2개;4,소형 태피(VOCAL);FLICK 15,15000 골드;리더 게이지 충전 1,10 SONIC</Mission>
+    <MissionCompleteReward>13</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Giant Step</Name>
+    <CodeName>giantstep</CodeName>
+    <Artist>Chroma</Artist>
+    <BPM>135</BPM>
+    <Type>Dance</Type>
+    <Level>3,4,7,8</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-09-12</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S,소형 태피(VOCAL);3,노멀 레벨 스태프 5개;70,슈퍼 스카우트 포인트 5개;1,노멀 스킬 스태프 2개;4,20000 골드;2,노멀 캐스팅 2개;800,000,15000 골드;15,15000 골드;7,10 SONIC;3,소형 태피(VOCAL);2,대형 태피(VOCAL);3,대형 태피(SESSION);FLICK 350,50000 골드;리더 게이지 충전 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Give Me 5</Name>
+    <CodeName>giveme5</CodeName>
+    <Artist>ND Lee</Artist>
+    <BPM>121</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,7,8</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>2018-08-08</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;A,10000 골드;2,25000 골드;80,슈퍼 레벨 스태프 5개;3,슈퍼 레벨 스태프 3개;5,10000 골드;1,30000 골드;650,000,30000 골드;5,10000 골드;5,10000 골드;2,소형 태피(DANCER);4,슈퍼 캐스팅 2개;4,소형 태피(VOCAL);FLICK 150,레전드 스카우트 포인트 5개;판정 강화 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Glory Day</Name>
+    <CodeName>gloryday</CodeName>
+    <Artist>BEXTER &amp; Mycin.T</Artist>
+    <BPM>162</BPM>
+    <Type>Session</Type>
+    <Level>3,5,7,8</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-07-25</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>20000 골드;S+,25000 골드;2,슈퍼 속성 스태프 2개;80,25000 골드;2,노멀 레벨 스태프 5개;5,10000 골드;2,슈퍼 스카우트 포인트 5개;200,000,10000 골드;10,15000 골드;7,슈퍼 캐스팅 1개;3,소형 태피(SESSION);3,소형 태피(VOCAL);4,소형 태피(DANCER);SLIDE 1,000,소형 태피(SESSION);리더 게이지 충전 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Goodbye</Name>
+    <CodeName>goodbye</CodeName>
+    <Artist>LENA</Artist>
+    <BPM>157</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,6,7</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;B,20000 골드;2,노멀 속성 스태프 5개;80,노멀 레벨 스태프 5개;1,노멀 속성 스태프 5개;6,10 SONIC;2,10000 골드;350,000,노멀 캐스팅 2개;10,15000 골드;3,10000 골드;4,소형 태피(DANCER);4,소형 태피(VOCAL);4,소형 태피(DANCER);SLIDE 1,000,소형 태피(VOCAL);MAX HP 증가 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Grid System</Name>
+    <CodeName>gridsystem</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>146</BPM>
+    <Type>Session</Type>
+    <Level>6,7,9,10</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-05-29</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20 SONIC;S,10 SONIC;2,노멀 레벨 스태프 5개;70,소형 태피(SESSION);3,노멀 레벨 스태프 5개;5,20 SONIC;2,10000 골드;1,000,000,15000 골드;15,노멀 캐스팅 3개;3,노멀 캐스팅 1개;4,소헝 태피(SESSION);4,소형 태피(VOCAL);4,소형 태피(DANCER);FLICK 150,노멀 캐스팅 3개;리더 게이지 충전 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Groovin' Up</Name>
+    <CodeName>groovinup</CodeName>
+    <Artist>Mycin.T</Artist>
+    <BPM>120</BPM>
+    <Type>Dance</Type>
+    <Level>4,5,7,8</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;A,20000 골드;3,25000 골드;70,노멀 캐스팅 3개;3,노멀 레벨 스태프 5개;5,노멀 캐스팅 2개;1,10000 골드;200,000,20000 골드;9,노멀 캐스팅 2개;7,노멀 캐스팅 1개;4,소형 태피(SESSION);4,중형 태피(VOCAL);4,소형 태피(VOCAL);LONG 1,000,슈퍼 스카우트 포인트 5개;HP 회복 2,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Halcyon</Name>
+    <CodeName>halcyon</CodeName>
+    <Artist>xi</Artist>
+    <BPM>40~191</BPM>
+    <Type>Dance</Type>
+    <Level>4,6,9,10</Level>
+    <AddVersion>BMS</AddVersion>
+    <UpdateDate>2018-10-17</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,20000 골드;1,중형 태피(DANCER);60,15 SONIC;3,노멀 캐스팅 10개;5,10000 골드;2,노멀 캐스팅 2개;800,000,15000 골드;7,소형 태피(VOCAL);7,노멀 캐스팅 3개;4,중형 태피(DANCER);4,소형 태피(SESSION);3,소형 태피(VOCAL);TAP 15,000,대형 태피(DANCER);MAX HP 증가 1,슈퍼 스카우트 포인트 10개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>HELIOS</Name>
+    <CodeName>helios</CodeName>
+    <Artist>ginkiha</Artist>
+    <BPM>172</BPM>
+    <Type>Session</Type>
+    <Level>2,3,7,10</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-10-04</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;10 SONIC;1,슈퍼 레벨 스태프 3개;70,15000 골드;1,20 SONIC;5,20000 골드;2,노멀 캐스팅 2개;1,000,000,슈퍼 스카우트 포인트 5개;9,소형 태피(VOCAL);5,10000 골드;3,중형 태피(VOCAL);4,소형 태피(DANCER);4,소형 태피(DANCER);SLIDE 17,000,슈퍼 스카우트 포인트 15개;HP 회복 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Hello Pinky</Name>
+    <CodeName>hellopinky</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>141</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,7,8</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,20 SONIC;1,50000 골드;80,슈퍼 레벨 스태프 7개;2,10 SONIC;7,노멀 캐스팅 3개;2,노멀 캐스팅 2개;800,000,1성 클래스볼;10,15000 골드;5,10 SONIC;4,소형 태피(DANCER);2,소형 태피(SESSION);3,소형 태피(DANCER);SLIDE 3,000,소형 태피(VOCAL);리더 게이지 충전 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Here in the Moment</Name>
+    <CodeName>hereinthe</CodeName>
+    <Artist>Ruby Tuesday</Artist>
+    <BPM>115</BPM>
+    <Type>Dance</Type>
+    <Level>3,4,6,7</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S+,25000 골드;3,25000 골드;70,슈퍼 캐스팅 1개;2,노멀 캐스팅 10개;5,20 SONIC;2,슈퍼 스카우트 포인트 5개;350,000,슈퍼 캐스팅 1개;10,15000 골드;5,10000 골드;3,소형 태피(DANCER);4,소형 태피(VOCAL);3,소형 태피(DANCER);SLIDE 1,000,노멀 캐스팅 2개;MAX HP 증가 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Higher</Name>
+    <CodeName>higher</CodeName>
+    <Artist>Supbaby</Artist>
+    <BPM>137</BPM>
+    <Type>Session</Type>
+    <Level>3,4,6,8</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S,10000 골드;2,노멀 레벨 스태프 7개;80,30000 골드;3,노멀 캐스팅 10개;7,노멀 캐스팅 3개;1,10000 골드;1,000,000,노멀 캐스팅 2개;7,15000 골드;5,노멀 캐스팅 3개;3,소형 태피(DANCER);3,대형 태피(DANCER);4,소형 태피(VOCAL);LONG 1,000,슈퍼 캐스팅 1개;MAX HP 증가 1,10 SONIC</Mission>
+    <MissionCompleteReward>20</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>I Want You</Name>
+    <CodeName>iwantyou</CodeName>
+    <Artist>Lin-G</Artist>
+    <BPM>140</BPM>
+    <Type>Vocal</Type>
+    <Level>4,6,7,9</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>2018-07-25</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>10000 골드;B,슈퍼 스카우트 포인트 5개;3,슈퍼 레벨 스태프 5개;80,노멀 레벨 스태프 5개;2,10000 골드;4,20000 골드;2,10000 골드;650,000,1성 클래스볼;9,슈퍼 스카우트 포인트 5개;5,노멀 캐스팅 3개;3,레전드 스카우트 포인트 5개;2,슈퍼 스카우트 포인트 10개;3,소형 태피(VOCAL);TAP 5,000,25000 골드;MAX HP 증가 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>In My Heart</Name>
+    <CodeName>inmyheart</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>130</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,5,7</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>2018-10-04</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;A,노멀 캐스팅 5개;3,슈퍼 레벨 스태프 7개;80,25000 골드;1,노멀 스킬 스태프 5개;5,20000 골드;2,노멀 캐스팅 2개;650,000,50000 골드;7,15000 골드;7,노멀 캐스팅 3개;4,소형 태피(VOCAL);4,중형 태피(VOCAL);4,소형 태피(SESSION);LONG 5,500,슈퍼 캐스팅 1개;판정 강화 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>KILLER BEE</Name>
+    <CodeName>killerbee</CodeName>
+    <Artist>GOTH</Artist>
+    <BPM>155</BPM>
+    <Type>Dance</Type>
+    <Level>5,7,8,9</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S,슈퍼 캐스팅 1개;1,30 SONIC;90,노멀 속성 스태프 3개;2,10 SONIC;4,20000 골드;1,10000 골드;1,000,000,슈퍼 캐스팅 1개;10,30000 골드;5,10 SONIC;4,소형 태피(SESSION);3,중형 태피(VOCAL);3,소형 태피(DANCER);LONG 3,000,슈퍼 캐스팅 3개;HP 회복 2,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Korobeiniki</Name>
+    <CodeName>korobeiniki</CodeName>
+    <Artist>Semi Dragon</Artist>
+    <BPM>134</BPM>
+    <Type>Session</Type>
+    <Level>4,4,6,7</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S,노멀 캐스팅 1개;3,노멀 레벨 스태프 5개;80,슈퍼 레벨 스태프 5개;2,노멀 레벨 스태프 5개;5,10000 골드;2,20000 골드;650,000,30000 골드;5,슈퍼 캐스팅 1개;7,10000 골드;4,소형 태피(VOCAL);2,슈퍼 스카우트 포인트 10개;4,중형 태피(VOCAL);LONG 1,000,소형 태피(SESSION);HP 회복 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>La Campanella : Nu Rave</Name>
+    <CodeName>lacamp</CodeName>
+    <Artist>cranky</Artist>
+    <BPM>130~178</BPM>
+    <Type>Session</Type>
+    <Level>5,7,7,8</Level>
+    <AddVersion>DMT2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20 SONIC;A,10000 골드;2,노멀 속성 스태프 3개;70,소형 태피(DANCER);2,슈퍼 레벨 스태프 3개;4,20000 골드;2,10000 골드;350,000,30000 골드;10,30000 골드;1,15000 골드;3,중형 태피(DANCER);4,슈퍼 스카우트 포인트 10개;3,슈퍼 캐스팅 3개;SLIDE 7,000,중형 태피(VOCAL);MAX HP 증가 2,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Ladymade Star</Name>
+    <CodeName>ladymade</CodeName>
+    <Artist>ESTi</Artist>
+    <BPM>136</BPM>
+    <Type>Vocal</Type>
+    <Level>2,5,6,7</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;A,레전드 스카우트 포인트 3개;2,25000 골드;90,슈퍼 스킬 스태프 2개;2,10 SONIC;9,소형 태피(VOCAL);2,10000 골드;350,000,30000 골드;10,15000 골드;1,슈퍼 스카우트 포인트 5개;4,소형 태피(SESSION);4,소형 태피(SESSION);4,소형 태피(VOCAL);SLIDE 5,500,슈퍼 캐스팅 1개;판정 강화 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Leave me Alone</Name>
+    <CodeName>leavemealone</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>118</BPM>
+    <Type>Vocal</Type>
+    <Level>3,4,6,8</Level>
+    <AddVersion>DMP3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,10000 골드;2,25000 골드;80,30000 골드;3,15 SONIC;4,슈퍼 캐스팅 1개;1,20 SONIC;1,000,000,소형 태피(SESSION);5,10 SONIC;10,10000 골드;2,소형 태피(SESSION);2,소형 태피(SESSION);3,소형 태피(VOCAL);TAP 5,000,레전드 스카우트 포인트 7개;판정 강화 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Lemonade</Name>
+    <CodeName>lemonade</CodeName>
+    <Artist>M2U</Artist>
+    <BPM>195</BPM>
+    <Type>Session</Type>
+    <Level>2,4,6,8</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-11-14</UpdateDate>
+    <EarnRoute>스토리 해금</EarnRoute>
+    <Mission>10000 골드;S,레전드 DANCER 스태프 2개;2,슈퍼 레벨 스태프 5개;70,15000 골드;3,10 SONIC;5,노멀 캐스팅 2개;2,20000 골드;650,000,50000 골드;7,레전드 스카우트 포인트 5개;1,슈퍼 스카우트 포인트 5개;3,소형 태피(VOCAL);3,소형 태피(VOCAL);4,슈퍼 스카우트 포인트 5개;TAP 12,500,레전드 SESSION 스태프 3개;리더 게이지 충전 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>LENA Revolution</Name>
+    <CodeName>lenarevolution</CodeName>
+    <Artist>LENA</Artist>
+    <BPM>138</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S,10000 골드;1,중형 태피(VOCAL);80,슈퍼 속성 스태프 3개;3,10000 골드;5,20000 골드;2,10000 골드;350,000,20000 골드;10,30000 골드;7,노멀 캐스팅 3개;4,EXP 부스터(3시간);4,소형 태피(DANCER);3,소형 태피(VOCAL);SLIDE 1,500,노멀 캐스팅 2개;판정 강화 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Let Up</Name>
+    <CodeName>letup</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>190</BPM>
+    <Type>Vocal</Type>
+    <Level>3,4,8,10</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>10000 골드;S+,슈퍼 캐스팅 1개;1,30 SONIC;70,슈퍼 스카우트 포인트 5개;2,15000 골드;4,20000 골드;1,20000 골드;650,000,1성 클래스볼;7,15 SONIC;5,노멀 캐스팅 1개;4,소형 태피(SESSION);3,소형 태피(VOCAL);4,슈퍼 스카우트 포인트 10개;SLIDE 1,500,소형 태피(DANCER);리더 게이지 충전 2,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Liar</Name>
+    <CodeName>liar</CodeName>
+    <Artist>zts</Artist>
+    <BPM>140</BPM>
+    <Type>Dance</Type>
+    <Level>6,8,9,10</Level>
+    <AddVersion>DMTQ</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;B,10000 골드;2,슈퍼 속성 스태프 2개;80,25000 골드;1,노멀 스킬 스태프 5개;10,소헝 태피(DANCER);2,20000 골드;100,000,20 SONIC;5,10 SONIC;3,슈퍼 캐스팅 1개;4,소형 태피(DANCER);4,소형 태피(SESSION);3,소형 태피(VOCAL);SLIDE 1,000,15000 골드;리더 게이지 충전 2,10000 골드</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Light House</Name>
+    <CodeName>lighthouse</CodeName>
+    <Artist>xxdbxx</Artist>
+    <BPM>162</BPM>
+    <Type>Dance</Type>
+    <Level>4,5,7,9</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;B,슈퍼 스카우트 포인트 5개;2,노멀 레벨 스태프 7개;90,노멀 스킬 스태프 2개;2,슈퍼 레벨 스태프 3개;4,노멀 캐스팅 2개;2,20 SONIC;1,000,000,소형 태피(VOCAL);15,노멀 캐스팅 3개;5,노멀 캐스팅 1개;2,레전드 스카우트 포인트 5개;4,중형 태피(SESSION);2,소형 태피(SESSION);LONG 1,000,노멀 캐스팅 3개;HP 회복 2,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Love☆Panic</Name>
+    <CodeName>lovepanic</CodeName>
+    <Artist>hiyong</Artist>
+    <BPM>164</BPM>
+    <Type>Vocal</Type>
+    <Level>3,5,7,8</Level>
+    <AddVersion>DMTQ</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S+,25000 골드;3,노멀 속성 스태프 5개;60,15 SONIC;1,50000 골드;4,노멀 캐스팅 2개;2,10000 골드;650,000,1성 클래스볼;7,소형 태피(VOCAL);3,슈퍼 캐스팅 1개;4,소형 태피(SESSION);4,소형 태피(SESSION);4,슈퍼 스카우트 포인트 10개;SLIDE 1,000,소형 태피(DANCER);판정 강화 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Loving U</Name>
+    <CodeName>lovingu</CodeName>
+    <Artist>Mycin.T &amp; HIGHTEEN</Artist>
+    <BPM>111</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;B,10000 골드;2,슈퍼 레벨 스태프 5개;80,슈퍼 속성 스태프 2개;2,노멀 레벨 스태프 5개;4,노멀 캐스팅 2개;1,20000 골드;1,000,000,15000 골드;5,슈퍼 캐스팅 1개;1,소형 태피(VOCAL);3,중형 태피(SESSION);3,중형 태피(DANCER);2,소형 태피(VOCAL);SLIDE 5,500,25000 골드;판정 강화 1,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Luv is True</Name>
+    <CodeName>luvistrue</CodeName>
+    <Artist>3rd Coast</Artist>
+    <BPM>128</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,6,8</Level>
+    <AddVersion>DMP3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 2개;2,노멀 속성 스태프 3개;80,노멀 레벨 스태프 7개;1,20 SONIC;4,20 SONIC;2,노멀 캐스팅 2개;650,000,30000 골드;10,30000 골드;7,슈퍼 캐스팅 1개;4,소형 태피(DANCER);4,소형 태피(DANCER);4,소형 태피(SESSION);SLIDE 1,000,노멀 캐스팅 3개;판정 강화 2,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Melody</Name>
+    <CodeName>melody</CodeName>
+    <Artist>bermei.inazawa</Artist>
+    <BPM>188</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,6,8</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>2018-11-14</UpdateDate>
+    <EarnRoute>스토리 해금</EarnRoute>
+    <Mission>10000 골드;S,노멀 캐스팅 1개;1,10 SONIC;80,25000 골드;1,노멀 스킬 스태프 5개;8,슈퍼 스킬 스태프 3개;1,20000 골드;200,000,10000 골드;9,1성 클래스볼;3,10000 골드;4,소형 태피(DANCER);3,소형 태피(VOCAL);4,소형 태피(VOCAL);LONG 15,000,레전드 스카우트 포인트 5개;HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Midnight Blood</Name>
+    <CodeName>midnightblood</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>147</BPM>
+    <Type>Session</Type>
+    <Level>2,3,6,7</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>30000 골드;S+,25000 골드;1,레전드 스카우트 포인트 7개;80,슈퍼 레벨 스태프 5개;2,10 SONIC;4,20000 골드;1,20000 골드;650,000,15000 골드;10,2성 클래스볼;7,노멀 캐스팅 1개;4,슈퍼 스카우트 포인트 10개;4,슈퍼 스카우트 포인트 10개;4,소형 태피(SESSION);FLICK 150,노멀 캐스팅 2개;리더 게이지 충전 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Mind Control</Name>
+    <CodeName>mindcontrol</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>185</BPM>
+    <Type>Session</Type>
+    <Level>6,8,9,10</Level>
+    <AddVersion>DMT</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,20000 골드;1,레전드 스카우트 포인트 12개;80,30000 골드;3,10000 골드;7,10000 골드;2,슈퍼 캐스팅 1개;650,000,15 SONIC;5,슈퍼 캐스팅 1개;5,10 SONIC;4,슈퍼 캐스팅 2개;3,슈퍼 스카우트 포인트 10개;4,소형 태피(SESSION);LONG 1,000,소형 태피(SESSION);리더 게이지 충전 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Mulch</Name>
+    <CodeName>mulch</CodeName>
+    <Artist>Sampling Masters Mega</Artist>
+    <BPM>200 (변속)</BPM>
+    <Type>Dance</Type>
+    <Level>6,7,8,10</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>10000 골드;S,10 SONIC;2,노멀 속성 스태프 3개;80,노멀 속성 스태프 3개;3,노멀 레벨 스태프 5개;10,EXP 부스터(3시간);2,노멀 캐스팅 2개;1,000,000,노멀 캐스팅 2개;10,30000 골드;1,소형 태피(SESSION);3,소형 태피(SESSION);4,소형 태피(SESSION);3,중형 태피(VOCAL);TAP 3,000,소형 태피(VOCAL);리더 게이지 충전 1,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>OBLIVION</Name>
+    <CodeName>oblivion</CodeName>
+    <Artist>ESTi</Artist>
+    <BPM>141</BPM>
+    <Type>Session</Type>
+    <Level>2,4,7,8</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 2개;2,슈퍼 레벨 스태프 7개;80,30000 골드;1,20 SONIC;5,10000 골드;1,20000 골드;1,000,000,15000 골드;10,15000 골드;7,노멀 캐스팅 3개;4,소형 태피(DANCER);4,소형 태피(VOCAL);3,중형 태피(DANCER);SLIDE 3,000,소형 태피(SESSION);리더 게이지 충전 2,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>One the Love</Name>
+    <CodeName>onethelove</CodeName>
+    <Artist>xxdbxx</Artist>
+    <BPM>125</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,5,8</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S,노멀 캐스팅 1개;1,중형 태피(VOCAL);80,노멀 레벨 스태프 5개;2,1성 클래스볼;5,슈퍼 스카우트 포인트 5개;1,노멀 캐스팅 2개;800,000,1성 클래스볼;7,소형 태피(VOCAL);10,10000 골드;4,대힝 태피(VOCAL);3,소형 태피(VOCAL);4,소형 태피(VOCAL);SLIDE 7,000,10 SONIC;리더 게이지 충전 2,노멀 캐스팅 2개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Only for you</Name>
+    <CodeName>onlyforyou</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>122</BPM>
+    <Type>Vocal</Type>
+    <Level>1,2,5,7</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;A,레전드 레벨 스태프 3개;3,25000 골드;80,노멀 속성 스태프 5개;3,1성 클래스볼;5,EXP 부스터(3시간) 1개;1,20000;350000,노멀 캐스팅 5개;15,슈퍼 스킬 스태프 2개;5,소형 태피(VOCAL);3,중형 태피(VOCAL);4,중형 태피(DANCER);4,중형 태피(SESSION);FLICK 1000,10 SONIC;HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Private Party</Name>
+    <CodeName>privateparty</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>114</BPM>
+    <Type>Vocal</Type>
+    <Level>2,5,6,7</Level>
+    <AddVersion>DMRAY</AddVersion>
+    <UpdateDate>2018-10-17</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;S+,노멀 캐스팅 5개;2,슈퍼 속성 스태프 2개;70,소형 태피(DANCER);3,15 SONIC;6,소형 태피(DANCER);2,20000 골드;100,000,20000 골드;15,100000 골드;1,노멀 캐스팅 10개;3,대형 태피(VOCAL);3,대형 태피(DANCER);4,노멀 캐스팅 3개;LONG 10,000,슈퍼 캐스팅 1개;HP 회복 1,중형 태피(VOCAL)</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Raise me up</Name>
+    <CodeName>raisemeup</CodeName>
+    <Artist>Planetboom</Artist>
+    <BPM>123</BPM>
+    <Type>Vocal</Type>
+    <Level>2,5,6,8</Level>
+    <AddVersion>DMP3</AddVersion>
+    <UpdateDate>2018-10-04</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S+,대형 태피(SESSION);2,노멀 속성 스태프 3개;80,25000 골드;2,슈퍼 레벨 스태프 3개;4,20000 골드;2,10000 골드;100,000,20000 골드;9,노멀 캐스팅 2개;5,10 SONIC;3,소형 태피(VOCAL);4,대형 태피(VOCAL);4,중형 태피(SESSION);TAP 7,000,50000 골드;MAX HP 증가 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Remember</Name>
+    <CodeName>remember</CodeName>
+    <Artist>Lin-G</Artist>
+    <BPM>150</BPM>
+    <Type>Vocal</Type>
+    <Level>2,3,5,6</Level>
+    <AddVersion>DMT1</AddVersion>
+    <UpdateDate>2018-05-29</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;S+,소형 태피(DANCER);2,슈퍼 속성 스태프 2개;70,소형 태피(VOCAL);1,노멀 스킬 스태프 2개;4,슈퍼 캐스팅 1개;2,20000 골드;650,000,15000 골드;7,노멀 캐스팅 2개;7,10000 골드;4,소형 태피(VOCAL);4,소형 태피(DANCER);4,슈퍼 스카우트 포인트 10개;SLIDE 3,000,40000 골드;판정 강화 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Rhythm</Name>
+    <CodeName>rhythm</CodeName>
+    <Artist>Rb. Duke</Artist>
+    <BPM>116</BPM>
+    <Type>Vocal</Type>
+    <Level>3,5,6,8</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;S,노멀 캐스팅 1개;3,30000 골드;70,15000 골드;3,슈퍼 레벨 스태프 3개;5,20000 골드;2,10000 골드;1,000,000,소형 태피(SESSION);9,소형 태피(VOCAL);5,10000 골드;2,소형 태피(VOCAL);3,대형 태피(DANCER);4,소형 태피(SESSION);LONG 3,000,노멀 캐스팅 5개;HP 회복 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Runaway</Name>
+    <CodeName>runaway</CodeName>
+    <Artist>LeeZu</Artist>
+    <BPM>140</BPM>
+    <Type>Session</Type>
+    <Level>5,6,7,10</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>30000 골드;S,노멀 캐스팅 3개;1,슈퍼 스카우트 포인트 10개;50,노멀 캐스팅 1개;2,슈퍼 레벨 스태프 3개;5,10000 골드;2,20000 골드;1,000,000,슈퍼 스카우트 포인트 5개;7,15000 골드;5,노멀 캐스팅 1개;4,중형 태피(DANCER);4,소형 태피(SESSION);3,소형 태피(SESSION);FLICK 200,소형 태피(DANCER);MAX HP 증가 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Running Girl</Name>
+    <CodeName>runninggirl</CodeName>
+    <Artist>Mycin.T</Artist>
+    <BPM>170</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,6,7</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;A,20000 골드;1,슈퍼 스카우트 포인트 15개;80,25000 골드;1,노멀 스킬 스태프 5개;7,노멀 캐스팅 3개;2,10000 골드;650,000,2성 클래스볼;5,노멀 캐스팅 1개;1,소형 태피(SESSION);3,중형 태피(DANCER);4,소형 태피(VOCAL);2,소형 태피(SESSION);TAP 3,000,노멀 캐스팅 2개;HP 회복 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Ruti'n</Name>
+    <CodeName>rutin</CodeName>
+    <Artist>BEXTER</Artist>
+    <BPM>120</BPM>
+    <Type>Session</Type>
+    <Level>4,5,6,8</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S,노멀 캐스팅 1개;3,노멀 레벨 스태프 5개;90,노멀 스킬 스태프 5개;2,노멀 레벨 스태프 5개;4,20000 골드;2,10000 골드;650,000,1성 클래스볼;7,15000 골드;5,노멀 캐스팅 3개;4,중형 태피(VOCAL);2,소형 태피(SESSION);2,슈퍼 스카우트 포인트 10개;TAP 2,000,15000 골드;리더 게이지 충전 1,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Ruti'n (GOTH Wild Electro Remix)</Name>
+    <CodeName>rutinremix</CodeName>
+    <Artist>GOTH</Artist>
+    <BPM>112</BPM>
+    <Type>Session</Type>
+    <Level>5,6,7,10</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-09-19</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>20000 골드;S+,10 SONIC;3,노멀 캐스팅 10개;80,30000 골드;3,슈퍼 스카우트 포인트 10개;9,대형 태피(VOCAL);1,10000 골드;200,000,30000 골드;9,노멀 캐스팅 3개;5,10000 골드;2,소형 태피(SESSION);3,중형 태피(SESSION);3,소형 태피(DANCER);TAP 15,000,30 SONIC;HP 회복 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Saturday</Name>
+    <CodeName>saturday</CodeName>
+    <Artist>ned</Artist>
+    <BPM>177</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;B,10000 골드;1,50000 골드;60,노멀 캐스팅 3개;3,10000 골드;7,10000 골드;2,레전드 스카우트 포인트 3개;200,000,10000 골드;5,10000 골드;5,10000 골드;4,소형 태피(VOCAL);2,소형 태피(VOCAL);4,소형 태피(VOCAL);TAP 2,000,슈퍼 스카우트 포인트 5개;MAX HP 증가 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Secret</Name>
+    <CodeName>secret</CodeName>
+    <Artist>Electronic Boutique</Artist>
+    <BPM>127</BPM>
+    <Type>Vocal</Type>
+    <Level>3,4,5,7</Level>
+    <AddVersion>DMRAY</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (Free)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S,노멀 캐스팅 3개;2,노멀 속성 스태프 3개;50,10000 골드;1,20 SONIC;7,10 SONIC;1,노멀 캐스팅 2개;800,000,15000 골드;15,30 SONIC;7,노멀 캐스팅 1개;3,슈퍼 스카우트 포인트 10개;2,소형 태피(DANCER);2,소형 태피(SESSION);LONG 5,500,중형 태피(VOCAL);MAX HP 증가 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Secret Dejavu</Name>
+    <CodeName>secretdejavu</CodeName>
+    <Artist>DINY</Artist>
+    <BPM>160</BPM>
+    <Type>Vocal</Type>
+    <Level>3,5,6,8</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>30000 골드;B,20000 골드;3,노멀 레벌업 스태프 5개;60,소형 태피(VOCAL);3,15000 골드;4,노멀 속성 스태프 5개;2,10000 골드;800000,레전드 VOCAL 스태프 2개;9,15000 골드;1,노멀 캐스팅 3개;4,중형 태피(VOCAL);4,중형 태피(DANCER);3,중형 태피(SESSION);SLIDE 12000,슈퍼 캐스팅 1개;MAX HP 증가 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Shadow Flower</Name>
+    <CodeName>shadowflower</CodeName>
+    <Artist>ned</Artist>
+    <BPM>142</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,6,7</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;A,20 SONIC;1,50000 골드;80,노멀 레벨 스태프 5개;1,노멀 스킬 스태프 2개;5,슈퍼 캐스팅 1개;2,20000 골드;800,000,15000 골드;7,슈퍼 캐스팅 1개;7,노멀 캐스팅 3개;2,소형 태피(SESSION);4,소형 태피(DANCER);3,소형 태피(VOCAL);FLICK 150,15000 골드;리더 게이지 충전 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>SigNalize</Name>
+    <CodeName>signalize</CodeName>
+    <Artist>Paul Bazooka</Artist>
+    <BPM>132</BPM>
+    <Type>Dance</Type>
+    <Level>3,5,7,8</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,10000 골드;1,슈퍼 스카우트 포인트 10개;90,노멀 속성 스태프 3개;2,노멀 레벨 스태프 5개;5,10000 골드;2,30000 골드;800,000,15000 골드;10,1성 클래스볼;7,노멀 캐스팅 3개;4,소형 태피(SESSION);2,소형 태피(VOCAL);4,중형 태피(DANCER);SLIDE 1,000,노멀 캐스팅 3개;MAX HP 증가 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Silent Clarity</Name>
+    <CodeName>silentclarity</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>180</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,6,8</Level>
+    <AddVersion>DMTT</AddVersion>
+    <UpdateDate>2018-08-08</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>20000 골드;B,10000 골드;2,슈퍼 속성 스태프 2개;95,노멀 레벨 스태프 5개;1,20 SONIC;5,노멀 캐스팅 2개;2,10000 골드;200,000,슈퍼 스카우트 포인트 5개;10,15000 골드;5,10 SONIC;2,중형 태피(DANCER);3,소형 태피(DANCER);4,슈퍼 스카우트 포인트 10개;LONG 7,000,노멀 캐스팅 3개;판정 강화 1,10000 골드</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>SINister Evolution</Name>
+    <CodeName>evolution</CodeName>
+    <Artist>TAK</Artist>
+    <BPM>149 (변속)</BPM>
+    <Type>Dance</Type>
+    <Level>3,6,8,10</Level>
+    <AddVersion>DMRAY</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (30만 Gold)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S,노멀 캐스팅 1개;3,노멀 레벨 스태프 5개;80,슈퍼 속성 스태프 2개;3,노멀 레벨 스태프 5개;4,10000 골드;2,20000 골드;200,000,10000 골드;5,노멀 캐스팅 1개;5,10000 골드;4,중형 태피(DANCER);2,슈퍼 스카우트 포인트 10개;3,대형 태피(DANCER);LONG 1,000,슈퍼 스카우트 포인트 5개;판정 강화 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Soda Pop City</Name>
+    <CodeName>sodapopcity</CodeName>
+    <Artist>nora2r</Artist>
+    <BPM>170</BPM>
+    <Type>Dance</Type>
+    <Level>2,5,6,7</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-09-19</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S,10 SONIC;2,25000 골드;80,슈퍼 레벨 스태프 5개;2,10000 골드;5,20000 골드;1,레전드 스카우트 포인트 3개;350,000,노멀 캐스팅 2개;5,노멀 캐스팅 3개;5,슈퍼 스카우트 포인트 5개;3,소형 태피(SESSION);3,소형 태피(VOCAL);4,소형 태피(VOCAL);LONG 15,000,20 SONIC;HP 회복 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Someday</Name>
+    <CodeName>someday</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>136</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,6,7</Level>
+    <AddVersion>DMT</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;B,30000 골드;1,중형 태피(SESSION);95,15000 골드;1,슈퍼 스킬 스태프 3개;1,30000 골드;1,10000 골드;1,000,000,노멀 캐스팅 2개;7,노멀 캐스팅 2개;7,10000 골드;2,소형 태피(SESSION);3,소형 태피(DANCER);3,소형 태피(DANCER);TAP 3,000,15000 골드;HP 회복 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>SON OF SUN</Name>
+    <CodeName>sonof</CodeName>
+    <Artist>Hosoe Shinji</Artist>
+    <BPM>200</BPM>
+    <Type>Dance</Type>
+    <Level>4,7,9,10</Level>
+    <AddVersion>DMT1</AddVersion>
+    <UpdateDate>2018-07-25</UpdateDate>
+    <EarnRoute>상점 구매 (35만 Gold)</EarnRoute>
+    <Mission>10000 골드;A,20000 골드;3,25000 골드;60,15000 골드;2,10000 골드;6,노멀 캐스팅 3개;2,30000 골드;800,000,3성 클래스볼;9,소형 태피(VOCAL);1,슈퍼 캐스팅 1개;3,소형 태피(SESSION);4,대형 태피(DANCER);4,소형 태피(SESSION);FLICK 150,15000 골드;HP 회복 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Space Corridor</Name>
+    <CodeName>spacecorridor</CodeName>
+    <Artist>GOTH</Artist>
+    <BPM>128</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,4,6</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,20000 골드;2,슈퍼 레벨 스태프 5개;80,슈퍼 레벨 스태프 5개;3,노멀 레벨 스태프 5개;4,20 SONIC;2,10000 골드;800,000,30000 골드;15,슈퍼 스카우트 포인트 15개;1,15000 골드;3,소형 태피(VOCAL);3,소형 태피(VOCAL);2,소형 태피(DANCER);FLICK 150,15000 골드;판정 강화 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Splash Dreams</Name>
+    <CodeName>splashdreams</CodeName>
+    <Artist>kors k</Artist>
+    <BPM>170</BPM>
+    <Type>Dance</Type>
+    <Level>3,4,7,9</Level>
+    <AddVersion>HS12</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S+,10000 골드;3,슈퍼 레벨 스태프 5개;70,소형 태피(SESSION);1,슈퍼 스킬 스태프 3개;9,레전드 DANCER 스태프 2개;1,노멀 캐스팅 2개;800000,20000 골드;7,15000 골드;1,슈퍼 스카우트 포인트 5개;4,대형 태피(VOCAL);4,대형 태피(DANCER);3,대형 태피(SESSION);LONG 30000,20 SONIC;HP 회복 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>SQUEEZE</Name>
+    <CodeName>squeeze</CodeName>
+    <Artist>Oriental ST8</Artist>
+    <BPM>147</BPM>
+    <Type>Dance</Type>
+    <Level>4,5,6,9</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 2개;2,노멀 속성 스태프 5개;80,노멀 레벨 스태프 5개;3,10000 골드;4,슈퍼 캐스팅 1개;1,30000 골드;100,000,슈퍼 스카우트 포인트 5개;5,노멀 캐스팅 3개;7,노멀 캐스팅 3개;4,소형 태피(VOCAL);2,슈퍼 스카우트 포인트 10개;4,소형 태피(SESSION);LONG 1,500,15000 골드;리더 게이지 충전 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Stay with Me</Name>
+    <CodeName>staywithme</CodeName>
+    <Artist>REDALiCE</Artist>
+    <BPM>170</BPM>
+    <Type>Dance</Type>
+    <Level>2,6,8,10</Level>
+    <AddVersion>HS12</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;S+,레전드 DANCER 스태프 3개;1,50000 골드;80,노멀 속성 스태프 5개;3,2성 클래스볼;6,10000 골드;2,노멀 캐스팅 2개;1,000,000,50000 골드;7,노멀 캐스팅 2개;1,15000 골드;4,대형 태피(VOCAL);4,대형 태피(DANCER);4,대형 태피(SESSION);LONG 30000,슈퍼 캐스팅 1개;MAX HP 증가 1;노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Sunset Rider</Name>
+    <CodeName>sunsetrider</CodeName>
+    <Artist>Nauts</Artist>
+    <BPM>170</BPM>
+    <Type>Session</Type>
+    <Level>4,5,7,9</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S+,25000 골드;3,슈퍼 레벨 스태프 2개;60,노멀 캐스팅 2개;2,레전드 레벨 스태프 3개;7,슈퍼 캐스팅 1개;1,30000 골드;1,000,000,소형 태피(VOCAL);5,10 SONIC;7,10 SONIC;4,소형 태피(SESSION);4,소형 태피(VOCAL);4,소형 태피(DANCER);SLIDE 1,000,15000 골드;HP 회복 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>20</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Sweet Shining Shooting Star</Name>
+    <CodeName>sweetshiningshootingstar</CodeName>
+    <Artist>CROOVE</Artist>
+    <BPM>153</BPM>
+    <Type>Vocal</Type>
+    <Level>2,3,4,6</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>2018-12-26</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;B,노멀 캐스팅 3개;1,20000 골드;60,대형 태피(VOCAL);2,레전드 VOCAL 스태프 2개;10,슈퍼 레벨업 스태프 7개;2,1성 클래스볼;650000,노멀 캐스팅 3개;5,레전드 레벨업 스태프 3개;3,노멀 캐스팅 3개;3,소형 태피(DANCER);2,소형 태피(DANCER);3,소형 태피(VOCAL);FLICK 350,20 SONIC;판정 강화 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>The Clear Blue Sky</Name>
+    <CodeName>thecbs</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>178</BPM>
+    <Type>Vocal</Type>
+    <Level>3,4,5,7</Level>
+    <AddVersion>DMPCE</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;S+,40000 골드;3,노멀 속성 스태프 3개;70,소형 태피(DANCER);3,노멀 캐스팅 10개;4,20 SONIC;2,20000 골드;350,000,10000 골드;5,노멀 캐스팅 3개;5,10 SONIC;3,중형 태피(DANCER);4,중형 태피(SESSION);3,중형 태피(DANCER);TAP 2,000,15000 골드;판정 강화 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>The Feeling (feat. Wes Joseph)</Name>
+    <CodeName>thefeeling</CodeName>
+    <Artist>Supbaby</Artist>
+    <BPM>130</BPM>
+    <Type>Dance</Type>
+    <Level>3,5,6,7</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;B,슈퍼 캐스팅 1개;2,25000 골드;70,소형 태피(VOCAL);3,15000 골드;5,20 SONIC;1,10000 골드;200,000,10000 골드;5,10000 골드;5,10000 골드;3,소형 태피(VOCAL);4,소형 태피(VOCAL);4,슈퍼 캐스팅 2개;FLICK 150,15000 골드;MAX HP 증가 2,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>The Party</Name>
+    <CodeName>theparty</CodeName>
+    <Artist>ND Lee</Artist>
+    <BPM>116</BPM>
+    <Type>Session</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,노멀 캐스팅 2개;3,30.000 골드;80,25000 골드;3,노멀 캐스팅 10개;4,20 SONIC;2,20 SONIC;350,000,노멀 캐스팅 2개;9,15000 골드;7,노멀 캐스팅 1개;4,소형 태피(VOCAL);4,중형 태피(SESSION);4,대형 태피(DANCER);LONG 1,500,15000 골드;판정 강화 2,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Thor</Name>
+    <CodeName>thor</CodeName>
+    <Artist>XeoN</Artist>
+    <BPM>147</BPM>
+    <Type>Dance</Type>
+    <Level>4,6,8,10</Level>
+    <AddVersion>DMT1</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,10000 골드;3,노멀 레벨 스태프 5개;80,30000 골드;2,15000 골드;8,15000 골드;2,10000 골드;800,000,2성 클래스볼;5,노멀 캐스팅 1개;5,슈퍼 캐스팅 1개;3,소형 태피(SESSION);4,소형 태피(VOCAL);4,소형 태피(VOCAL);SLIDE 1,000,15000 골드;판정 강화 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Tok! Tok! Tok!</Name>
+    <CodeName>toktoktok</CodeName>
+    <Artist>LENA</Artist>
+    <BPM>178</BPM>
+    <Type>Dance</Type>
+    <Level>2,4,7,8</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>슈퍼 캐스팅 1개;S+,25000 골드;2,슈퍼 속성 스태프 2개;70,노멀 캐스팅 3개;1,20 SONIC;7,10000 골드;2,20000 골드;800,000,15 SONIC;5,10000 골드;10,노멀 캐스팅 1개;2,소형 태피(DANCER);3,소형 태피(DANCER);4,소형 태피(SESSION);SLIDE 1,000,소형 태피(SESSION);리더 게이지 충전 2,10 SONIC</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Twinkle STAR</Name>
+    <CodeName>twinklestar</CodeName>
+    <Artist>jam-jam</Artist>
+    <BPM>115</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;S+,40000 골드;1,50000 골드;80,슈퍼 속성 스태프 2개;1,슈퍼 속성 스태프 2개;4,10000 골드;2,30000 골드;800,000,50000 골드;15,30 SONIC;1,소형 태피(DANCER);4,소형 태피(VOCAL);4,중형 태피(DANCER);2,레전드 스카우트 포인트 5개;TAP 5,000,소형 태피(SESSION);HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>U.A.D</Name>
+    <CodeName>uad</CodeName>
+    <Artist>HAYAKO</Artist>
+    <BPM>176</BPM>
+    <Type>Dance</Type>
+    <Level>5,6,7,9</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>2018-06-27</UpdateDate>
+    <EarnRoute>상점 구매 (70 SP)</EarnRoute>
+    <Mission>20000 골드;B,30000 골드;2,노멀 레벨 스태프 7개;70,소형 태피(DANCER);2,레전드 레벨 스태프 3개;5,20000 골드;2,노멀 캐스팅 2개;350,000,슈퍼 캐스팅 1개;9,15 SONIC;5,10000 골드;4,소형 태피(DANCER);3,슈퍼 스카우트 포인트 10개;4,소형 태피(SESSION);TAP 3,000,15000 골드;HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>15</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Waiting for you</Name>
+    <CodeName>waitingforyou</CodeName>
+    <Artist>Mycin.T</Artist>
+    <BPM>175</BPM>
+    <Type>Session</Type>
+    <Level>5,6,8,9</Level>
+    <AddVersion>DMR</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;B,20 SONIC;1,50000 골드;80,30000 골드;3,노멀 레벨 스태프 5개;6,노멀 캐스팅 3개;1,20000 골드;650,000,15 SONIC;5,10 SONIC;7,노멀 캐스팅 3개;3,슈퍼 스카우트 포인트 10개;4,중형 태피(VOCAL);4,소형 태피(VOCAL);LONG 3,000,중형 태피(VOCAL);리더 게이지 충전 1,10 SONIC</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Weather Auction</Name>
+    <CodeName>weatherauction</CodeName>
+    <Artist>Harunaba</Artist>
+    <BPM>152</BPM>
+    <Type>Session</Type>
+    <Level>3,5,8,10</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;B,노멀 캐스팅 5개;3,30000 골드;80,30000 골드;2,슈퍼 스킬 스태프 2개;4,슈퍼 스카우트 포인트 5개;2,슈퍼 속성 스태프 2개;800,000,중형 태피(SESSION);7,레전드 SESSION 스태프 2개;10,10000 골드;2,소형 태피(SESSION);2,대형 태피(SESSION);3,소형 태피(SESSION);TAP 20,000,20 SONIC;HP 회복 2,슈퍼 레벨 스태프 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Watch Your Step</Name>
+    <CodeName>watchyourstep</CodeName>
+    <Artist>XeoN</Artist>
+    <BPM>130</BPM>
+    <Type>Dance</Type>
+    <Level>2,5,6,7</Level>
+    <AddVersion>TSO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,슈퍼 스카우트 포인트 5개;2,노멀 레벨 스태프 7개;80,노멀 속성 스태프 5개;2,10 SONIC;5,슈퍼 캐스팅 1개;2,20 SONIC;100,000,슈퍼 스카우트 포인트 5개;7,소형 태피(DANCER);3,노멀 캐스팅 1개;3,소형 태피(VOCAL);4,소형 태피(SESSION);4,슈퍼 스카우트 포인트 10개;LONG 1,500,소형 태피(DANCER);HP 회복 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>13</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>whiteblue</Name>
+    <CodeName>whiteblue</CodeName>
+    <Artist>zts</Artist>
+    <BPM>144</BPM>
+    <Type>Dance</Type>
+    <Level>4,5,7,9</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;A,10000 골드;3,노멀 레벨 스태프 5개;80,슈퍼 속성 스태프 2개;3,10 SONIC;4,레전드 스카우트 포인트 3개;2,10000 골드;800,000,15000 골드;5,노멀 캐스팅 1개;7,10 SONIC;4,중형 태피(SESSION);4,소형 태피(SESSION);3,소형 태피(DANCER);SLIDE 1,500,노멀 캐스팅 2개;리더 게이지 충전 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>13</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>You &amp; Me</Name>
+    <CodeName>youandme</CodeName>
+    <Artist>NieN</Artist>
+    <BPM>136</BPM>
+    <Type>Vocal</Type>
+    <Level>4,5,6,7</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>2018-08-29</UpdateDate>
+    <EarnRoute>상점 구매 (100 SP)</EarnRoute>
+    <Mission>슈퍼 스카우트 포인트 5개;S+,25000 골드;3,슈퍼 레벨 스태프 5개;70,노멀 캐스팅 2개;2,레전드 레벨 스태프 3개;4,20000 골드;2,20000 골드;800,000,50000 골드;10,30000 골드;1,15000 골드;2,소형 태피(SESSION);3,소형 태피(VOCAL);2,소형 태피(DANCER);SLIDE 3,000,소형 태피(DANCER);리더 게이지 충전 1,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Your Own MIRACLE</Name>
+    <CodeName>yourown</CodeName>
+    <Artist>Ruby Tuesday</Artist>
+    <BPM>136</BPM>
+    <Type>Vocal</Type>
+    <Level>2,4,6,8</Level>
+    <AddVersion>DMP2</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S+,중형 태피(SESSION);1,대형 태피(DANCER);80,슈퍼 속성 스태프 3개;1,슈퍼 스킬 스태프 2개;5,노멀 캐스팅 2개;1,레전드 스카우트 포인트 3개;1,000,000,노멀 캐스팅 2개;10,15 SONIC;3,노멀 캐스팅 3개;4,소형 태피(VOCAL);4,소형 태피(SESSION);4,대형 태피(DANCER);FLICK 150,소형 태피(DANCER);HP 회복 1,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>너랑 있으면</Name>
+    <CodeName>tobewithyou</CodeName>
+    <Artist>LENA</Artist>
+    <BPM>130</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,6,7</Level>
+    <AddVersion>MuseMaker</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20 SONIC;A,10000 골드;3,노멀 속성 스태프 5개;50,10 SONIC;2,슈퍼 레벨 스태프 3개;4,슈퍼 스카우트 포인트 5개;1,30000 골드;800,000,15 SONIC;10,15 SONIC;5,노멀 캐스팅 3개;4,중형 태피(DANCER);3,소형 태피(VOCAL);4,소형 태피(VOCAL);TAP 7,000,노멀 캐스팅 5개;MAX HP 증가 1,슈퍼 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>바람에게 부탁해</Name>
+    <CodeName>asktowind</CodeName>
+    <Artist>Forte Escape</Artist>
+    <BPM>108</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,6,7</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>10000 골드;A,슈퍼 캐스팅 1개;2,노멀 속성 스태프 5개;60,소형 태피(VOCAL);1,노멀 속성 스태프 3개;4,슈퍼 캐스팅 1개;1,슈퍼 캐스팅 1개;650,000,3성 클래스볼;10,15 SONIC;5,노멀 캐스팅 1개;4,중형 태피(DANCER);4,중형 태피(DANCER);4,대형 태피(VOCAL);FLICK 150,슈퍼 캐스팅 1개;판정 강화 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>13</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>바람의 기억</Name>
+    <CodeName>memoryofwind</CodeName>
+    <Artist>Forte Escape</Artist>
+    <BPM>110</BPM>
+    <Type>Vocal</Type>
+    <Level>1,3,4,6</Level>
+    <AddVersion>DMT</AddVersion>
+    <UpdateDate>2018-11-14</UpdateDate>
+    <EarnRoute>스토리 해금</EarnRoute>
+    <Mission>30000 골드;S,10 SONIC;1,중형 태피(VOCAL);90,20 SONIC;1,노멀 스킬 스태프 2개;4,슈퍼 스카우트 포인트 5개;2,10000 골드;200,000,10000 골드;10,30000 골드;5,노멀 캐스팅 3개;4,중형 태피(SESSION);2,소형 태피(VOCAL);4,소형 태피(DANCER);LONG 10,000,10 SONIC;MAX HP 증가 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>유령</Name>
+    <CodeName>ghost</CodeName>
+    <Artist>STi</Artist>
+    <BPM>125</BPM>
+    <Type>Vocal</Type>
+    <Level>2,3,5,6</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20000 골드;S+,슈퍼 스카우트 포인트 10개;1,중형 태피(SESSION);80,30000 골드;3,슈퍼 레벨 스태프 3개;6,슈퍼 캐스팅 1개;2,10000 골드;800,000,1성 클래스볼;5,10 SONIC;5,10000 골드;4,소형 태피(DANCER);2,소형 태피(SESSION);4,소형 태피(SESSION);LONG 1,500,노멀 캐스팅 2개;리더 게이지 충전 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>혜성(Comet)</Name>
+    <CodeName>comet</CodeName>
+    <Artist>Mycin.T &amp; HIGHTEEN</Artist>
+    <BPM>109</BPM>
+    <Type>Dance</Type>
+    <Level>1,3,6,9</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>Default</UpdateDate>
+    <EarnRoute>Default</EarnRoute>
+    <Mission>20 SONIC;A,20 SONIC;1,중형 태피(VOCAL);70,15000 골드;1,노멀 스킬 스태프 2개;5,슈퍼 스카우트 포인트 5개;2,20000 골드;650,000,1성 클래스볼;5,노멀 캐스팅 1개;7,10 SONIC;3,소형 태피(DANCER);3,소형 태피(DANCER);4,대형 태피(VOCAL);LONG 1,000,소형 태피(SESSION);HP 회복 1,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>징글벨</Name>
+    <CodeName>jinglebell</CodeName>
+    <Artist>EVE</Artist>
+    <BPM>112</BPM>
+    <Type>Vocal</Type>
+    <Level>2,3,5,6</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (Free)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,노멀 캐스팅 2개;2,25000 골드;95,노멀 레벨 스태프 5개;3,10000 골드;4,슈퍼 레벨 스태프 3개;2,20000 골드;800,000,2성 클래스볼;15,레전드 VOCAL 스태프 2개;5,노멀 캐스팅 1개;4,소형 태피(VOCAL);4,중형 태피(SESSION);4,소형 태피(DANCER);FLICK 600,슈퍼 캐스팅 1개;HP 회복 1,노멀 레벨 스태프 5개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Humming Bird</Name>
+    <CodeName>hummingbird</CodeName>
+    <Artist>kohu</Artist>
+    <BPM>136</BPM>
+    <Type>Session</Type>
+    <Level>3,4,6,7</Level>
+    <AddVersion>TSGP</AddVersion>
+    <UpdateDate>2019-01-16</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;S+,대형 태피(SESSION);3,1성 클래스볼;95,슈퍼 스카우트 포인트 5개;3,15000 골드;10,슈퍼 속성 스태프 2개;2,슈퍼 스카우트 포인트 5개;650,000,30000 골드;5,10000 골드;1,레전드 SESSION 스태프 2개;3,중형 태피(VOCAL);2,중형 태피(DANCER);4,소형 태피(SESSION);LONG 20,000,10 SONIC;리더 게이지 충전 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Over The Rainbow</Name>
+    <CodeName>overtherainbow</CodeName>
+    <Artist>Tsukasa</Artist>
+    <BPM>190</BPM>
+    <Type>Dance</Type>
+    <Level>3,4,7,9</Level>
+    <AddVersion>DMT3</AddVersion>
+    <UpdateDate>2019-01-16</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;B,슈퍼 스카우트 포인트 5개;1,소형 태피(DANCER);90,30000 골드;3,레전드 DANCER 스태프 2개;8,소형 태피(SESSION);2,노멀 스킬 스태프 5개;800,000,10000 골드;5,노멀 캐스팅 3개;1,50000 골드;3,대형 태피(VOCAL);2,대형 태피(DANCER);4,대형 태피(SESSION);SLIDE 22,000,슈퍼 캐스팅 1개;HP 회복 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>BlythE</Name>
+    <CodeName>blythe</CodeName>
+    <Artist>M2U</Artist>
+    <BPM>180</BPM>
+    <Type>Session</Type>
+    <Level>5,6,7,10</Level>
+    <AddVersion>DMP1</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S+,슈퍼 레벨 스태프 3개;3,25000 골드;95,레전드 SESSION 스태프 3개;2,소형 태피(DANCER);5,20 SONIC;2,EXP 부스터(3시간) 1개;200,000,30000 골드;7,소형 태피(VOCAL);7,슈퍼 스킬 스태프 2개;4,대형 태피(VOCAL);4,대형 태피(DANCER);4,대형 태피(SESSION);SLIDE 12,000,슈퍼 캐스팅 1개;HP 회복 2,노멀 캐스팅 3개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Ready Now</Name>
+    <CodeName>readynow</CodeName>
+    <Artist>Ruby Tuesday</Artist>
+    <BPM>135</BPM>
+    <Type>Dance</Type>
+    <Level>2,4,6,7</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>2018-12-05</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>30000 골드;S+,대형 태피(DANCER);2,슈퍼 속성 스태프 2개;60,소형 태피(DANCER);2,10000 골드;4,노멀 캐스팅 2개;2,10000 골드;800,000,1성 클래스볼;7,노멀 캐스팅 2개;7,10000 골드;4,중형 태피(VOCAL);4,중형 태피(DANCER);3,중형 태피(SESSION);TAP 20,000,15 SONIC;판정 강화 2,슈퍼 스카우트 포인트 5개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>고백, 꽃, 늑대 part.2</Name>
+    <CodeName>gobaek2</CodeName>
+    <Artist>ReX</Artist>
+    <BPM>80~160</BPM>
+    <Type>Session</Type>
+    <Level>4,5,6,8</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>2019-02-19</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;A,노멀 캐스팅 5개;1,30000 골드;90,50000 골드;3,슈퍼 스킬 스태프 2개;6,슈퍼 레벨 스태프 3개;2,슈퍼 속성 스태프 2개;200,000,중형 태피(SESSION);5,레전드 SESSION 스태프 2개;3,10000 골드;4,중형 태피(VOCAL);4,중형 태피(DANCER);3,중형 태피(SESSION);TAP 25,000,20 SONIC;MAX HP 증가 1,슈퍼 레벨 스태프 3개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>My Jealousy</Name>
+    <CodeName>myjealousy</CodeName>
+    <Artist>3rd Coast</Artist>
+    <BPM>130</BPM>
+    <Type>Vocal</Type>
+    <Level>3,4,6,9</Level>
+    <AddVersion>DMT</AddVersion>
+    <UpdateDate>2019-02-19</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>10000 골드;B,노멀 캐스팅 1개;2,중형 태피(DANCER);80,25000 골드;2,노멀 스킬 스태프 5개;4,슈퍼 스킬 스태프 3개;1,20000 골드;1,000,000,10000 골드;7,1성 클래스볼;5,10000 골드;4,소형 태피(VOCAL);4,소형 태피(DANCER);3,소형 태피(SESSION);FLICK 2,000,30 SONIC;판정 강화 2,10000 골드</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Ray Of Illuminati</Name>
+    <CodeName>rayof</CodeName>
+    <Artist>ESTi</Artist>
+    <BPM>150</BPM>
+    <Type>Dancer</Type>
+    <Level>5,7,8,9</Level>
+    <AddVersion>DMO</AddVersion>
+    <UpdateDate>2019-02-19</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>20000 골드;S,중형 태피(DANCER);1,25000 골드;70,슈퍼 레벨 스태프 5개;2,10000 골드;4,20000 골드;2,레전드 DANCER 스태프 2개;1,000,000,노멀 캐스팅 2개;5,노멀 캐스팅 3개;1,슈퍼 스카우트 포인트 5개;4,대형 태피(VOCAL);4,대형 태피(DANCER);2,대형 태피(SESSION);LONG 25,000,20 SONIC;판정 강화 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>10</MissionCompleteReward>
+  </TSGP_Song>
+  <TSGP_Song>
+    <Name>Shoreline</Name>
+    <CodeName>shoreline</CodeName>
+    <Artist>Oriental ST8</Artist>
+    <BPM>135</BPM>
+    <Type>Dancer</Type>
+    <Level>4,6,7,9</Level>
+    <AddVersion>DMPBS</AddVersion>
+    <UpdateDate>2019-02-19</UpdateDate>
+    <EarnRoute>상점 구매 (140 SP)</EarnRoute>
+    <Mission>노멀 캐스팅 2개;B,20000 골드;3,노멀 레벨 스태프 5개;80,25000 골드;2,15000 골드;9,소형 태피(DANCER);2,20000 골드;800,000,1성 클래스볼;5,노멀 캐스팅 3개;3,10000 골드;4,중형 태피(VOCAL);4,중형 태피(DANCER);4,중형 태피(SESSION);SLIDE 7,000,슈퍼 캐스팅 1개;리더 게이지 충전 2,노멀 캐스팅 1개</Mission>
+    <MissionCompleteReward>8</MissionCompleteReward>
+  </TSGP_Song>
+</NewDataSet>

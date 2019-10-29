@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="Tips">
+    <item>Expert 난이도는 Hard 난이도를 클리어해야 플레이 할 수 있습니다.</item>
+    <item>태피를 사용할 때 속성을 맞추면 더 많은 경험치를 얻을 수 있습니다.</item>
+    <item>HP는 회복스킬 이외의 방법으로는 회복되지 않습니다. 플레이 할 때는 조심히!</item>
+    <item>SOLO PLAY에서 Expert 난이도는 1미스당 HP 15씩 감소합니다!</item>
+    <item>스타투어에서는 궁합이 맞는 스타와 맞지 않는 스타가 있습니다.</item>
+    <item>고스트 배틀은 게임 접속중이 아닐 때에도 상대의 승패에 따라 포인트에 변동이 있습니다.</item>
+    <item>소닉볼은 어떠한 스타라도 강화할 수 있습니다. 만능 소닉볼!</item>
+    <item></item>
+  </string-array>
+</resources>

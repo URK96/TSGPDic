@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/MainColor">
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="@string/Common_Notification"/>
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginTop="20dp">
+		<include layout="@layout/loadinglayout"/>
+		<ScrollView
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:textAppearance="?android:attr/textAppearanceMedium"
+				android:id="@+id/Main_MainNotification"/>
+		</ScrollView>
+	</RelativeLayout>
+</LinearLayout>
